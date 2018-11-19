@@ -1,0 +1,23 @@
+{
+    "topic": "",
+    "subject": "",
+    "eventType": "",
+    "eventTime": "",
+    "id": "",
+    "data": {
+      "api": "",
+      "clientRequestId": "",
+      "requestId": "",
+      "eTag": "",
+      "contentType": "",
+      "contentLength": 1,
+      "blobType": "",
+      "url": "",
+      "sequencer": "",
+      "storageDiagnostics": {
+        "batchId": ""
+      }
+    },
+    "dataVersion": "",
+    "metadataVersion": ""
+  }
