@@ -12,9 +12,9 @@
     * WALKTHROUGH: Custom Vision
         * Overview of custom vision and how it works
         * Build a custom vision model to detect wether Buzz Lightyear is broken or not
-         * [Working Sample Images](https://serverlessaiworkshop.blob.core.windows.net/serverlessaiworkshop/workingBuzz.zip)
-         * [Broken Sample Images](https://serverlessaiworkshop.blob.core.windows.net/serverlessaiworkshop/brokenBuzz.zip)
-         * [Images to test with](https://serverlessaiworkshop.blob.core.windows.net/serverlessaiworkshop/buzzImagesForTesting.zip) (DO NOT UPLOAD)
+            * [Working Sample Images](https://serverlessaiworkshop.blob.core.windows.net/serverlessaiworkshop/workingBuzz.zip)
+            * [Broken Sample Images](https://serverlessaiworkshop.blob.core.windows.net/serverlessaiworkshop/brokenBuzz.zip)
+            * [Images to test with](https://serverlessaiworkshop.blob.core.windows.net/serverlessaiworkshop/buzzImagesForTesting.zip) (DO NOT UPLOAD)
 * Intro to Serverless
     * Overview of serverless and why it's useful
     * WALKTHROUGH: Building a Logic App and integrating our Custom Vision Model
